@@ -1,16 +1,17 @@
-# my_website
+# My Website
 
-A new Flutter application.
+A basic Flutter website.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter website.
 
-A few resources to get you started if this is your first Flutter project:
+It is a responsive website with dark/light theme and links to social media.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[My Website](https://linchoplus.github.io/mywebsite)
+[Lincho Plus](https://linchoplus.com)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots
+![Screenshot](my_website1.png)
+![Screenshot](my_website2.png)
+
