@@ -17,7 +17,7 @@ import 'package:my_website/widgets/floating_quick_access_bar.dart';
 
 // TODO: Refactor/Rename LayoutPage with new name page ('MyNewPage')
 class LayoutPage extends StatefulWidget {
-  // TODO: Create new variable in settings/constants.dart (const String kMyNewPageRoute = '/new_page';)
+  // TODO: Create new variable in settings/constants.dart (const String kMyNewPageRoute = '/new-page';)
   // TODO: Replace here kHomePageRoute with new constant 'kMyNewPageRoute'
   final String route = kLayoutPageRoute;
 
@@ -142,6 +142,7 @@ class _LayoutPageState extends State<LayoutPage> {
                 // TODO: Content of Page inside Column([...])
                 child: Column(
                   children: [
+                    // Body of the page
                     SizedBox(
                       height: 1000.0,
                     )

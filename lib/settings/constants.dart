@@ -1,7 +1,7 @@
 const String kHomePageRoute = '/';
-const String kPageOneRoute = '/one';
-const String kPageTwoRoute = '/two';
-const String kPageThreeRoute = '/three';
+const String kPageOneRoute = '/page-one';
+const String kPageTwoRoute = '/page-two';
+const String kPageThreeRoute = '/page-three';
 
 const String kHeaderImage = 'images/home.jpg';
 const String kWebsiteLogo = 'logos/logo.png';
